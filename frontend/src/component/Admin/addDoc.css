@@ -1,0 +1,84 @@
+.add-doc{
+   display:flex;
+   flex-direction:column;
+   justify-content: center;
+   align-items: center;
+   width: 100vw;
+   height: 140vh;
+   box-sizing: content-box;
+   font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+   "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+   font-weight: bold;
+   margin:200px;
+}
+.add-doc > .form{
+    margin: 20px;
+    border-radius: 8px;
+    box-shadow: 25px rgb(44, 22, 44);
+    background-color:rgba(252, 252, 252, 0.658);
+    box-shadow: 0 0 15px 5px rgb(8, 8, 8);
+    width:700px;
+    height: 140vh;
+    padding:1.5rem;
+
+}
+h3{
+    font-weight:bold;
+    margin:10px;
+    border-bottom: 1px solid black;
+    padding-bottom:0.5rem;
+ }
+span{
+    display:flex;
+    flex-direction:row;
+    margin-top: 0;
+}
+span > label{
+    margin:0 0 0 10px;
+    padding:0 0 0 10px;;
+}
+.gender{
+    display: grid;
+    margin:0 10px;
+    padding:10px;
+    width: 15px;
+
+}
+label{
+    font-size: medium;
+    margin:0 0.5rem;
+    padding:0.5vmax;
+    font-family:sans-serif;
+}
+input{
+    display:flex;
+    flex-direction:column;
+    width:90%;
+    margin: 0 1rem;
+    padding: 0.5vmax;
+    outline: none;
+    border: none;
+    border-bottom: 1px solid black ;
+    font-size: 1rem;
+    border-radius: 4px;
+    
+}
+.btnd{
+   
+    float:right;
+    justify-content: center;
+    align-items: center;
+    margin: 30px 60px 0 60px;
+    padding:10px;
+    border-radius: 8px;
+    background-color:rgb(18, 98, 218);
+    width:100px;
+}
+.btnd:hover{
+    background-color:blue
+}
+#dt{
+    width:80%;
+
+
+}

@@ -1,0 +1,146 @@
+table{
+    /* display:flex; */
+    /* flex-direction: column; */
+    /* justify-content:space-evenly;
+    /* align-items: center; */ 
+    background-color: white;
+    border-collapse: collapse;
+    max-width: 900px;
+    width: 100%;
+    margin-top: 0px;
+    
+
+}
+.borderr{
+    width: 100%;
+    display: flex;
+        /* flex-direction: column; */
+     /* justify-content:space-evenly; */
+     align-items: center;
+    justify-content: center;
+    margin-top: 0px;
+
+}
+
+ table th{
+    border: 1px solid #ddd;
+    padding: 8px;
+    background-color:chartreuse;
+
+}
+
+
+table td{
+    border: 1px solid #ddd;
+    padding: 8px;
+    font-size: larges;
+    /* margin:2rem; */
+    margin-left: 20pt;
+    width: 100%;
+    
+
+}
+
+.tables{
+    background-color:white;
+    margin-top: 120px;
+}
+button{
+    color:white;
+    background-color:rgb(10, 102, 240);
+            width:5vw;
+            height:5vh;
+            /* margin: 0rem auto 1rem;
+            padding: 1px;
+            font-weight: bold;
+            border: none;
+            border-radius:5px;
+            font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+          "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+            font-size: 1.2vmax;
+            cursor:pointer;
+            transition : all 0.5s;
+            margin-left: 0%; */
+            
+
+             display:flex; 
+    flex-direction: column;  
+    justify-content:center;
+     align-items: center;
+     margin-right: 10px;
+}
+
+.spans{
+    color:crimson;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: large;
+}
+
+.patient{
+    font-weight: 600;
+}
+
+.upper{
+    font-size:large;
+    color:darkgoldenrod;
+}
+
+.borderr{
+    color:black;
+    border-top-style: hidden;
+    
+}
+
+/* .cap{
+    margin-bottom: 10px;
+    color:darkorange;
+} */
+
+.fee{
+    margin: 200px;
+    color: black;
+    width: 100%;
+height: 100%;
+
+}
+.bill{
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+width: 100%;
+margin: 200px;
+height: 100%;
+}
+
+.emp-profile{
+    margin: top 50px;
+    size: 500px;
+}
+
+.container{
+    size: 1140px;
+}
+.okkkk{
+    color: white;
+}
+.headingg{
+    
+    width: 100%;
+    display: flex;
+        /* flex-direction: column; */
+     /* justify-content:space-evenly; */
+     align-items: center;
+    justify-content: center;
+    margin-top: 100px;}
+
+    .name{
+        /* width: 100%; */
+    display: flex;
+        /* flex-direction: column; */
+     /* justify-content:space-evenly; */
+     align-items: center;
+    justify-content: center;
+    margin-top: 0px;
+    color: darkorange;
+    }

@@ -1,0 +1,38 @@
+.card-patient{
+    display: flex;
+    flex-direction:row;
+    width:100vw;
+    height:160vh;
+    justify-content: left;
+    border: solid 1px black;
+    margin-top: 60px;
+    
+}
+
+.card-patient > .menu{
+    display: flex;
+    margin-right: 20px;
+    padding: 20px;
+    flex-direction:column;
+    align-items: flex-start;
+    height:100%;
+    width:300px;
+    background-color: rgba(27, 52, 85, 0.909);
+}
+.link
+{
+    text-decoration: none;
+    padding: 10px 0 25px 25px;
+    color: white;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight:bold;
+   
+}
+.Info{
+    margin:50px;
+    width:100%;
+    height:160vh;
+    background-color: rgba(255, 255, 255, 0.74);
+}
+
+

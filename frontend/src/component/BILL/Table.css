@@ -1,0 +1,68 @@
+table{
+    background-color: white;
+    border-collapse: collapse;
+    max-width: 900px;
+    width: 100%;
+    margin: 2rem auto;
+}
+
+table th{
+    border: 1px solid #ddd;
+    padding: 8px;
+    background-color:chartreuse;
+
+}
+
+table td{
+    border: 1px solid #ddd;
+    padding: 8px;
+    margin-left: 20pt;
+    
+
+}
+
+.tables{
+    background-color:white;
+}
+button{
+    color:white;
+    background-color:rgb(10, 102, 240);
+            width:25vw;
+            height:5vh;
+            margin: 3rem auto 1rem;
+            padding: 1px;
+            font-weight: bold;
+            border: none;
+            border-radius:5px;
+            font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+          "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+            font-size: 1.2vmax;
+            cursor:pointer;
+            transition : all 0.5s;
+}
+
+.spans{
+    color:crimson;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: large;
+}
+
+.patient{
+    font-weight: 600;
+}
+
+.upper{
+    font-size:large;
+    color:darkgoldenrod;
+}
+
+.borderr{
+    color:black;
+    border-top-style: hidden;
+    
+}
+
+.cap{
+    margin-bottom: 10px;
+    color:darkorange;
+}

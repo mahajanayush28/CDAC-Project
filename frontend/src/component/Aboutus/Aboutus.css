@@ -1,0 +1,40 @@
+.card-footer{
+    display:flex;
+    width:100vw;
+    height:100vh;
+    padding-top:30px;
+    background-color:rgb(37, 37, 43);
+   
+
+}
+
+.address{
+    padding-top:10%;
+    width:33%;
+    color:white;
+    text-align:left;
+    padding-left: 5%;
+    justify-content:center;
+
+}
+
+.contact{
+    padding-top:10%;
+    width:33%;
+    color:white;
+    padding-left:5%;
+    text-align:center;
+    justify-content:center;
+
+}
+
+.media{
+    padding-top:10%;
+    width:33%;
+    color:white;
+    padding-left:5%;
+    text-align:center;
+    justify-content:center;
+}
+
+
